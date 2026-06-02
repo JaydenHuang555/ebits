@@ -2,3 +2,6 @@
 name = "ebits"
 version = "0.1.0"
 edition = "2024"
+description = "enabled bits library util. Designed to add ZERO overhead at runtime"
+authors = ["Jayden Huang", "Abby Friend"]
+license = "MIT"
